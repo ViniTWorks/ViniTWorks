@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Vinícius Trindade :smile:
+## Bem-vindo(a) ao meu perfil, Vinícius Trindade!😁
 
  <div>
    <a href="https://github.com/vinitworks">
@@ -14,7 +14,7 @@
  
  <br>
  
-  ### Para saber mais sobre mim, siga-me nas redes sociais abaixo ou me envie um e-mail! :smile:
+  ### Para saber mais sobre mim, siga-me nas redes sociais abaixo ou me envie um e-mail!😉
  
 <div> 
   <a href="https://www.instagram.com/vinicius_mtrindade/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
