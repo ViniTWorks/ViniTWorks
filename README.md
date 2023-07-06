@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do ViniTWorks 😁
+## Bem-vindo(a) ao perfil do Vinícius Trindade 😁
 
  <div>
    <a href="https://github.com/vinitworks">
