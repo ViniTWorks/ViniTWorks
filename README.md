@@ -14,7 +14,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Para saber mais sobre mim, siga-me nas redes sociais abaixo ou me envie um e-mail :smile: !
  
 <div> 
   <a href="https://www.instagram.com/vinicius_mtrindade/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
