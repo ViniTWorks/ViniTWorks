@@ -1,5 +1,4 @@
 ## Seja muito bem-vindo(a) ao meu perfil Github!🪐
-
 <br>
 
 ### Eu sou Vinícius Trindade
