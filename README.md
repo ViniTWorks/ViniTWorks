@@ -1,6 +1,6 @@
 ## Seja muito bem-vindo(a) ao meu perfil Github!🪐
 
-
+<br>
 ### Eu sou Vinícius Trindade
 
 #### 🌱 Buscando desafios e crescimento | Amante da tecnologia desde sempre ❤ | Cuidadoso e otimizador da vida 🚀✨
