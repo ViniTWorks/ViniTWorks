@@ -1,5 +1,9 @@
 ## Seja muito bem-vindo(a) ao meu perfil Github!🪐
 
+# Eu sou Vinícius Trindade
+
+### 🌱 Buscando desafios e crescimento | Amante da tecnologia desde sempre ❤ | Cuidadoso e otimizador da vida 🚀✨
+
  <div>
    <a href="https://github.com/vinitworks">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinitworks&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
