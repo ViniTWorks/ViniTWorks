@@ -29,6 +29,8 @@
   <a href = "mailto:viniciustrindade1909@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vinicius-martins-trindade-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
+<br>
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
   <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="vinicius-martins-trindade-" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/vinicius-martins-trindade-?trk=profile-badge">Vinícius Martins Trindade</a></div>
               
  
