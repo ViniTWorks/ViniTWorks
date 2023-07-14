@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil, Vinícius Trindade!😁
+## Seja muito bem-vindo(a) ao meu perfil!😁
 
  <div>
    <a href="https://github.com/vinitworks">
@@ -6,6 +6,7 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinitworks&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
+## ✅ Estou aprendendo e praticando linguagens como:
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -14,7 +15,7 @@
  
  <br>
  
-  ### Para saber mais sobre mim, siga-me nas redes sociais abaixo ou me envie um e-mail!😉
+  ### Entre em contato comigo por aqui 👇
  
 <div> 
   <a href="https://www.instagram.com/vinicius_mtrindade/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
