@@ -1,4 +1,4 @@
-## Seja muito bem-vindo(a) ao meu perfil!😁
+## Seja muito bem-vindo(a) ao meu perfil Github!🪐
 
  <div>
    <a href="https://github.com/vinitworks">
