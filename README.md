@@ -1,17 +1,5 @@
 # Seja muito bem-vindo(a) ao meu perfil Github!🪐
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
-
 ### Eu sou o Vinícius Trindade
 
 #### 🌱 Buscando desafios e crescimento | Amante da tecnologia desde sempre ❤ | Cuidadoso e otimizador da vida 🚀✨
