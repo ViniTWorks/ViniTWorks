@@ -21,8 +21,6 @@
   <img align="center" alt="Vini-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Vini-React" height="30" width="40" 
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Vini-GitHub" height="30" width="40"
-src="https://icons8.com.br/icon/3tC9EQumUAuq/github.png">
   <img align="center" alt="Vini-Figma" height="30" width="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />        
   <img align="center" alt="Vini-Canva" height="30" width="40" 
